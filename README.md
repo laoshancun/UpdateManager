@@ -1,2 +1,3 @@
 # UpdateManager
-UpdateManager is committed to help developer update server easily
+UpdateManager can help developer update web server easily
+
